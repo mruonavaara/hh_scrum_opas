@@ -1,8 +1,6 @@
 # Scrum-ohjeita projekteille
-<<<<<<< HEAD
-=======
+
 Alla on kirjattu ohjeita kuinka Scrum toimii
->>>>>>> 89711eead19fd2fbfe8a7a338d8f7e4e8b83f6d2
 
 ## Scrum-syklin yleiskuvaus
 
