@@ -1,5 +1,5 @@
 # Scrum-ohjeita projekteille
-
+Alla on kirjattu ohjeita kuinka Scrum toimii
 
 ## Scrum-syklin yleiskuvaus
 ## Sprintit
@@ -16,6 +16,5 @@ Työjono on järjestetty lista kaikista tuotteen tarpeista ja on ainoa lähde to
 SCRUM-masterin tehtävä ei ole olla pomottaja, vaan järjestäjä, joka kuuntelee tiimin jäseniä ja mahdollistaa työskentelyn.
 
 ## Kokoukset
-Näitä on muun muassa Daily Scrum, joka on maksimissaan 15 minuutin mittainen aikarajattu päiväpalaveri, jossa tiimi tahdistaa työntä ja tekee suunnitelman seuraavalle 24 tunnille.
 
 ## Miksi Scrum toimii?
