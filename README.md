@@ -3,6 +3,7 @@
 
 ## Scrum-syklin yleiskuvaus
 ## Sprintit
+Sprintti on 1-4 viikon mittainen aikaraja
 ## Työjonot
 ## Roolit
 SCRUM-masterin tehtävä ei ole olla pomottaja, vaan järjestäjä, joka kuuntelee tiimin jäseniä ja mahdollistaa työskentelyn.
