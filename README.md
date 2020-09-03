@@ -1,5 +1,5 @@
 # Scrum-ohjeita projekteille
-
+Alla on kirjattu ohjeita kuinka Scrum toimii
 
 ## Scrum-syklin yleiskuvaus
 ## Sprintit
