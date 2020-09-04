@@ -4,6 +4,14 @@ Alla on kirjattu ohjeita kuinka Scrum toimii
 
 ## Scrum-syklin yleiskuvaus
 
+Scrum-projekti koostuu sprinteistä, joiden kesto on 1-4 viikkoa (sprintistä tarkemmin alla).
+
+Ennen sprinttiä sen sisältö ja tavoitteet määritellään kokouksessa. Sprintin aikana työskennellään päivittäisissä jaksoissa työstäen sprintin tuotejonoa, ja päivittäin pidetään Scrum-kokous.
+
+Sprintin lopuksi pidetään lopetuskokous tai -katselmointi. Tämän jälkeen suunnitellaan jälleen uuden sprintin tuotejono ja tavoite ja aloitetaan uusi sprintti.
+
+Sprinttejä jatketaan samalla tavalla kunnes tuotejonossa ei ole enää tuotteita ja varsinainen lopputuote on valmis.
+
 ## Sprintit
 
 Sprintti on 1-4 viikon mittainen aikaraja, jonka aikana tuotetaan esittely- tai julkaisukelpoinen tuote. Sprintin aikana voidaan tehdä yksi tai useampi julkaisu. Sprinttien pituus pysyy samana koko projektin ajan.
