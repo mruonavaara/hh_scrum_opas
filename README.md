@@ -26,6 +26,8 @@ SCRUM-masterin tehtävä ei ole olla pomottaja, vaan järjestäjä, joka kuuntel
 
 ### Tiimi
 
+Monitaitoisessa tiimissä on tyypillisesti 5-9 mielellään kokoaikaista jäsentä. On mm. koodaajia, testaajia ja käytettävyysihmisiä. Normaalitilanteessa tiimi organisoi itse itsensä ja se pysyy vakiona sprintin ajan.
+
 ## Kokoukset
 
 ## Miksi Scrum toimii?
