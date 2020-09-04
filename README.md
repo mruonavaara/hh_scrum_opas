@@ -4,6 +4,9 @@ Alla on kirjattu ohjeita kuinka Scrum toimii
 
 ## Scrum-syklin yleiskuvaus
 
+![Scrum-sykli](https://www.mountaingoatsoftware.com/uploads/presentations/getting-agile.png)
+Kuvan osoite: [https://www.mountaingoatsoftware.com/agile/scrum/resources/a-reusable-scrum-presentation](https://www.mountaingoatsoftware.com/agile/scrum/resources/a-reusable-scrum-presentation)
+
 Scrum-projekti koostuu sprinteistä, joiden kesto on 1-4 viikkoa (sprintistä tarkemmin alla).
 
 Ennen sprinttiä sen sisältö ja tavoitteet määritellään kokouksessa. Sprintin aikana työskennellään päivittäisissä jaksoissa työstäen sprintin tuotejonoa, ja päivittäin pidetään Scrum-kokous.
