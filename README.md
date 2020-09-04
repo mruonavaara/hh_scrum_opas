@@ -1,10 +1,31 @@
-# hh_scrum_opas
+# Scrum-ohjeita projekteille
 
-Scrumin roolit
-Scrum-kehityksessä käytetään yhtä tai useampaa scrumtiimiä (engl. Scrum Team). Scrumtiimi koostuu tuoteomistajasta, scrummasterista ja kehitystiimistä. Scrumtiimi päättää kunkin sprintin tavoitteet ja tehtävät, ja vastaa yhdessä siitä, että asetettuihin tavoitteisiin päästään. Scrumtiimi on itseohjautuva ja monitaitoinen, ja sillä on valta päättää omista työmenetelmistään.
+Alla on kirjattu ohjeita kuinka Scrum toimii
 
-Yksi scrumtiimin jäsen toimii tuotteen omistajana (engl. Product Owner). Tuoteomistaja vastaa tuotteen arvon ja kehitystiimin työn arvon maksimoimisesta. Käytännössä tämä tapahtuu määrittelemällä tuotteen vaatimukset sekä järjestämällä tuotteen kehitysjono yhteistyössä scrumtiimin kanssa. Tuoteomistaja on yksi henkilö, ei komitea. Tuoteomistaja voi hyödyntää komiteoita tai edustaa sellaisen toiveita tuotteen kehitysjonon kautta, mutta tuotteen kehitysjonon järjestyksen muuttamiseksi tulee aina ensin vakuuttaa tuoteomistaja. Tuoteomistaja tuntee tuotteen liiketoimintaa ja edustaa asiakkaita ja käyttäjiä. Tuoteomistajan toiminta maksimoi tuotekehitykseen sijoitetun pääoman tuottoprosentin (ROI) ja varmistaa, että scrumtiimi toteuttaa jokaisessa sprintissä sellaisia vaatimuksia, jotka ovat tuotteen onnistumisen kannalta keskeisimpiä. Tuoteomistaja hyväksyy sprinttikatselmuksessa edellisen sprintin tuoteversion ja osallistuu sprintin suunnittelupalaveriin varmistaakseen, että kehitystiimi ymmärtää sprinttiin valittavat tuotteen kehitysjonon kohdat riittävällä tarkkuudella. Tuoteomistaja myös auttaa kehitystiimiä ymmärtämään vaatimuksia ja tarvittaessa tarkentaa sprinttiin valittujen vaatimusten toteutustapaa sprintin aikana.
+## Scrum-syklin yleiskuvaus
 
-Toinen scrumtiimin rooleista on kehitystiimi (engl. Development Team). Kehitystiimi koostuu ammattilaisista, jotka muuttavat sprinttiin valitun tuotteen kehitysjonon sisällön potentiaalisesti julkaisukelpoiseksi “valmiiksi” tuoteversioksi jokaisessa sprintissä. Ainoastaan kehitystiimin jäsenet osallistuvat tuoteversion kehitykseen. Kehitystiimit ovat monitaitoisia sisältäen kaiken tarvittavan osaamisen potentiaalisesti julkaisukelpoisen tuoteversion kehittämiseksi. Kehitystiimin jäsenillä voi olla erityistä osaamista tai erilaisia työn painopisteitä, mutta vastuu kehityksestä kuuluu koko kehitystiimille yhdessä.
+## Sprintit
 
-Kolmas scrumtiimin rooli on scrummaster (engl. Scrum Master). Scrummaster vastaa siitä, että kaikki ymmärtävät ja käyttävät Scrumia. Scrummasterit tekevät tämän varmistamalla, että scrumtiimit pitäytyvät Scrumin teoriassa, käytännöissä ja säännöissä. Scrummaster on scrumtiimin palveleva johtaja. Toisin kuin perinteisellä esimiehellä, scrummasterilla ei ole scrumtiimin jäseniin suoraa määräysvaltaa, vaan hän vaikuttaa scrumtiimiin Scrum-prosessin kautta. Scrummasterin tehtävät koostuvat suurelta osin ryhmän työskentelyä haittaavien esteiden poistamisesta ja ryhmän valmentamisesta itseohjautuvuuteen. Scrummaster vastaa siitä, että scrumtiimin päivittäinen työskentely on tuottavaa ja Scrumin pelisääntöjä noudatetaan. Hän tarkkailee työn etenemistä, ja jos sprintin tavoitteiden saavuttaminen alkaa näyttää epätodennäköiseltä, hän kommunikoi kehitystiimin ja tuoteomistajan kanssa tilanteen korjaamiseksi tai sprintin sisällön kaventamiseksi. Scrummaster myös suojaa tiimiä ulkopuoliselta hälyltä, kuten sprintin aikana pyydetyiltä uusilta vaatimuksilta, ja tekee kaikkensa turvatakseen tiimilleen työrauhan.
+Sprintti on 1-4 viikon mittainen aikaraja, jonka aikana tuotetaan esittely- tai julkaisukelpoinen tuote. Sprintin aikana voidaan tehdä yksi tai useampi julkaisu. Sprinttien pituus pysyy samana koko projektin ajan.
+
+Sprintti koostuu suunnittelupalaverista, päivittäispalaverista, kehitystyöstä, katselmoinnista ja retrospektiivistä.
+
+## Työjonot
+
+Työjono on järjestetty lista kaikista tuotteen tarpeista ja on ainoa lähde toteutettaville vaatimuksille ja muutoksille. Kehitysjono muuttuu projektin aikana kun jonosta käsitellään, poistetaan tai lisätään töitä ja prioriteetteja muutetaan.
+
+## Roolit
+
+### Tuoteomistaja
+
+Tuoteomistaja vastaa tuotteen arvon ja kehitystiimin työn arvon maksimoimisesta. 
+
+### Scrum Master
+
+SCRUM-masterin tehtävä ei ole olla pomottaja, vaan järjestäjä, joka kuuntelee tiimin jäseniä ja mahdollistaa työskentelyn.
+
+### Tiimi
+
+## Kokoukset
+
+## Miksi Scrum toimii?
