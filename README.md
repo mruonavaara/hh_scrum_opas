@@ -1,17 +1,15 @@
 # Scrum-ohjeita projekteille
 
-Alla on kirjattu ohjeita kuinka Scrum toimii
+Scrum on kokonaisvaltainen tuotekehityksen malli, jolla on tarkoitus maksimoida kehitysnopeus ja -tehokkuus.
 
 ## Scrum-syklin yleiskuvaus
 
+Scrum-projekti koostuu sprinteistä, joiden kesto on 1-4 viikkoa. Ennen sprinttiä sen sisältö ja tavoitteet määritellään kokouksessa. Tavoitteet asetetaan liiketoiminnan vaatimusten mukaiseen järjestykseen tuotejonoksi, ja kokouksessa selvitetään parhaat tavat jolla tiimi pystyy suorittamaan tärkeimmät tehtävät. 
+
 ![Scrum-sykli](https://www.mountaingoatsoftware.com/uploads/presentations/getting-agile.png)
-Kuvan osoite: [https://www.mountaingoatsoftware.com/agile/scrum/resources/a-reusable-scrum-presentation](https://www.mountaingoatsoftware.com/agile/scrum/resources/a-reusable-scrum-presentation)
+Kuva 1: Scrum-sykli (Mountain Goat Software 2020)
 
-Scrum-projekti koostuu sprinteistä, joiden kesto on 1-4 viikkoa (sprintistä tarkemmin alla).
-
-Ennen sprinttiä sen sisältö ja tavoitteet määritellään kokouksessa. Sprintin aikana työskennellään päivittäisissä jaksoissa työstäen sprintin tuotejonoa, ja päivittäin pidetään Scrum-kokous.
-
-Sprintin lopuksi pidetään lopetuskokous tai -katselmointi. Tämän jälkeen suunnitellaan jälleen uuden sprintin tuotejono ja tavoite ja aloitetaan uusi sprintti.
+Sprintin aikana työskennellään päivittäisissä jaksoissa työstäen sprintin tuotejonoa, ja päivittäin pidetään Scrum-kokous. Sprintin lopuksi pidetään lopetuskokous tai -katselmointi, jossa on tarkoitus kokeilla saavutetun tason toimivuutta ja mahdollista tuotantokelpoisuutta, sekä arvioida, vaaditaanko vielä sprinttiä. Tarvittaessa suunnitellaan uuden sprintin tuotejono ja tavoite ja aloitetaan uusi sprintti.
 
 Sprinttejä jatketaan samalla tavalla kunnes tuotejonossa ei ole enää tuotteita ja varsinainen lopputuote on valmis.
 
@@ -23,7 +21,9 @@ Sprintti koostuu suunnittelupalaverista, päivittäispalaverista, kehitystyöst�
 
 ## Työjonot
 
-Työjono on järjestetty lista kaikista tuotteen tarpeista ja on ainoa lähde toteutettaville vaatimuksille ja muutoksille. Kehitysjono muuttuu projektin aikana kun jonosta käsitellään, poistetaan tai lisätään töitä ja prioriteetteja muutetaan.
+Prjoektin työ- tai kehitysjono on lista kaikista tuotteen tarpeista, joita projektin läpivienti vaatii. Työjono ei ole pelkkä luettelo, vaan tarkoitus on purkaa listan osat työvaiheiksi kehitystiimiä varten. Työjono muuttuu projektin aikana kun jonosta käsitellään, poistetaan tai lisätään töitä ja prioriteetteja muutetaan. Työjono saattaa myös kasvaa, kun uusia kehityskohteita havaitaan. Ketteryys on avainsana.
+
+Sprintin työjono on otos koko työjonosta, mutta sisältää vain sen tai ne asiat, jotka voidaan kyseisen sprintin aikana suorittaa. Erona projektin työjonoon on se, että sprintin työjono ei muutu sprintin aikana. Jonoa voidaan muuttaa, mutta ainoastaan sprintin suunnittelukokouksessa. Kun sprintin työjono on päätetty, tehtävät ja vaiheet pidetään sellaisenaan sprintin loppuun asti. Sprintin lopussa keskeneräiset tehtävät siirretään takaisin projektin työjonoon ja käsitellään seuraavassa sprintissä.
 
 ## Roolit
 
@@ -56,3 +56,7 @@ Jokaisen sprintin jälkeen pidetään lopetuskokous, johon kaikki kutsutaan. Sii
 Tiimi (scrum master, tuoteomistaja, tiimi ja mahdollisesti asiakas) pitää joka sprintin jälkeen myös erillisen arviointikokouksen. Sen kesto on n. 15-30 minuuttia ja siinä käydään läpi sprintin onnistumiset ja kehityksen kohteet.
 
 ## Miksi Scrum toimii?
+
+## Lähteet
+
+Mountain Goat Software 2020. Reusable Scrum Presentation. Luettavissa: https://www.mountaingoatsoftware.com/agile/scrum/resources/a-reusable-scrum-presentation. Luettu: 5.9.2020.
