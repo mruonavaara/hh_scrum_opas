@@ -61,6 +61,13 @@ Tiimi (scrum master, tuoteomistaja, tiimi ja mahdollisesti asiakas) pitää joka
 
 ## Miksi Scrum toimii?
 
+Scrumin sanotaan tarjoavan prosessin, jolla saa tuotettua nopeammin käyttövalmiin tuotteen käyttäjille ja asiakkaille.
+Scrum pyrkii myös parantamaan työntekijöiden tyytyväisyyttä prosessia kohtaan. Tähän keinoja on muun muassa pariohjelmointi, joka
+tasoittaa tiimin keskinäistä osaamista. 
+
+Scrum on joustava ja asioiden priorisoinnin takia oleelliset asiat tulee aina tehtyä ensin. 
+
+
 
 ## Lähteet
 
