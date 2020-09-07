@@ -21,7 +21,7 @@ Sprintti koostuu suunnittelupalaverista, päivittäispalaverista, kehitystyöst�
 
 ## Työjonot
 
-Prjoektin työ- tai kehitysjono on lista kaikista tuotteen tarpeista, joita projektin läpivienti vaatii. Työjono ei ole pelkkä luettelo, vaan tarkoitus on purkaa listan osat työvaiheiksi kehitystiimiä varten. Työjono muuttuu projektin aikana kun jonosta käsitellään, poistetaan tai lisätään töitä ja prioriteetteja muutetaan. Työjono saattaa myös kasvaa, kun uusia kehityskohteita havaitaan. Ketteryys on avainsana.
+Projektin työ- tai kehitysjono on lista kaikista tuotteen tarpeista, joita projektin läpivienti vaatii. Työjono ei ole pelkkä luettelo, vaan tarkoitus on purkaa listan osat työvaiheiksi kehitystiimiä varten. Työjono muuttuu projektin aikana kun jonosta käsitellään, poistetaan tai lisätään töitä ja prioriteetteja muutetaan. Työjono saattaa myös kasvaa, kun uusia kehityskohteita havaitaan. Ketteryys on avainsana.
 
 Sprintin työjono on otos koko työjonosta, mutta sisältää vain sen tai ne asiat, jotka voidaan kyseisen sprintin aikana suorittaa. Erona projektin työjonoon on se, että sprintin työjono ei muutu sprintin aikana. Jonoa voidaan muuttaa, mutta ainoastaan sprintin suunnittelukokouksessa. Kun sprintin työjono on päätetty, tehtävät ja vaiheet pidetään sellaisenaan sprintin loppuun asti. Sprintin lopussa keskeneräiset tehtävät siirretään takaisin projektin työjonoon ja käsitellään seuraavassa sprintissä.
 
@@ -38,6 +38,10 @@ SCRUM-masterin tehtävä ei ole olla pomottaja, vaan järjestäjä, joka kuuntel
 ### Tiimi
 
 Monitaitoisessa tiimissä on tyypillisesti 5-9 mielellään kokoaikaista jäsentä. On mm. koodaajia, testaajia ja käytettävyysihmisiä. Normaalitilanteessa tiimi organisoi itse itsensä ja se pysyy vakiona sprintin ajan.
+
+### Sidosryhmät
+
+Sidosryhmät ovat ulkoisija toimijoita, kuten loppukäyttäjät, hankkeen hallinto tai muut Scrum tiimit.
 
 ## Kokoukset
 
@@ -56,6 +60,7 @@ Jokaisen sprintin jälkeen pidetään lopetuskokous, johon kaikki kutsutaan. Sii
 Tiimi (scrum master, tuoteomistaja, tiimi ja mahdollisesti asiakas) pitää joka sprintin jälkeen myös erillisen arviointikokouksen. Sen kesto on n. 15-30 minuuttia ja siinä käydään läpi sprintin onnistumiset ja kehityksen kohteet.
 
 ## Miksi Scrum toimii?
+
 
 ## Lähteet
 
