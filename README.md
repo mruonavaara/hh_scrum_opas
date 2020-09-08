@@ -2,6 +2,40 @@
 
 Scrum on kokonaisvaltainen tuotekehityksen malli, jolla on tarkoitus maksimoida kehitysnopeus ja -tehokkuus.
 
+## Scrumin arvot 
+
+Scrum ei rakennu valikoidusta joukosta käytäntöjä vaan pohjautuu muutamaan arvoon. 
+Nämä arvot ovat kaikkien Scrumin periaatteiden ja aktiviteettien taustalla.
+
+### Sitoutuminen
+Tiimin tehtävä on sitoutua yhteiseen päämäärään. Tiimi on oikeutettu saamaan kaiken tuen, jotta he voivat saavuttaa sitoumuksensa.
+
+Perinteisissä menetelmissä tiimille usein vain annetaan ulkoa käsin työtehtäviä ja pahimmillaan vielä määrätään, miten työ on tehtävä. 
+Scrumissa tiimi itse sitoutuu toimittamaan seuraavan sprintin aikana määrätyt toiminnallisuudet. 
+Samalla tiimi saa sprintin aikana vapauden toimia parhaaksi katsomallaan tavalla. 
+Scrum-mestari ja ympäröivä organisaatio omalta osaltaan sitoutuvat tukemaan tiimiä poistamalla heitä häiritseviä tekijöitä.
+
+Jotta tiimi voi sitoutua johonkin tavoitteeseen, on tämän tavoitteen oltava niin selkeä, että sprintin jälkeen voidaan todeta, onko tiimi onnistunut vai ei.
+
+### Keskittyminen
+Tee työsi hyvin. Keskity vain siihen, minkä olet luvannut tehdä äläkä huolehdi muusta. Jokaiselle sprintille asetetaan selkeä tavoite. 
+Tämän tavoitteen saavuttaminen on tiimin tärkein tehtävä. Kaikki muut oheisaktiviteetit ovat toissijaisia.
+
+### Avoimuus
+On tärkeää, että kaikki projektiin liittyvät tiedot ovat näkyviä kaikille. Scrumissa kaikki on avointa: projektin ja sprintin työlistat ovat julkisia, 
+ja myös päivittäiskokous on avoinna kaikille kiinnostuneille (joskin vain tiimiin kuuluvat saavat puhua). Myös jokaisen sprintin tulokset esitellään julkisesti.
+
+### Kunnioitus
+Ihmisiä käsitellään yksilöinä heidän taustojensa ja kokemusten mukaan. On tärkeää kunnioittaa kutakin tiimin jäsentä juuri sellaisena kuin hän on. 
+Tiimin itseorganisoituvuutta ja työrauhaa on myös kunnioitettava. Jokaisen tiimiläisen on kunnioitettava muita tekemällä jatkuvasti parhaansa, ja 
+odotettava samaa myös muilta.
+
+### Rohkeus
+Ole rohkea sitoutumaan, toimimaan, olemaan avoin ja odota muilta kunnioitusta. Keskittyneesti ja avoimesti toimiminen voi joissain tilanteissa vaatia rohkeutta. 
+Esimerkiksi omat virheet on myönnettävä heti ja äänekkäästi, jotta niistä voidaan oppia. Usein tiimi itse tietää, miten joku ongelma kannattaa ratkaista, mutta
+joku ulkopuolinen taho on eri mieltä. Tällöin vaatii suurta rohkeutta toimia, mahdollisesti jopa vastoin yrityksen virallisista toimintatapaa. 
+Tätä ei kuitenkaan pidä sotkea vastuuttomuuteen.
+
 ## Scrum-syklin yleiskuvaus
 
 Scrum-projekti koostuu sprinteistä, joiden kesto on 1-4 viikkoa. Ennen sprinttiä sen sisältö ja tavoitteet määritellään kokouksessa. Tavoitteet asetetaan liiketoiminnan vaatimusten mukaiseen järjestykseen tuotejonoksi, ja kokouksessa selvitetään parhaat tavat jolla tiimi pystyy suorittamaan tärkeimmät tehtävät. 
@@ -72,3 +106,4 @@ Scrum on joustava ja asioiden priorisoinnin takia oleelliset asiat tulee aina te
 ## Lähteet
 
 Mountain Goat Software 2020. Reusable Scrum Presentation. Luettavissa: https://www.mountaingoatsoftware.com/agile/scrum/resources/a-reusable-scrum-presentation. Luettu: 5.9.2020.
+Sininen Meteoriitti 2013. Ketteryys haltuun: Scrum pähkinänkuoressa. Luettavissa: https://meteoriitti.com/2013/06/06/ketteryys-haltuun-scrum-pahkinankuoressa/
