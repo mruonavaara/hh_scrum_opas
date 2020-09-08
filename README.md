@@ -77,6 +77,8 @@ SCRUM-masterin tehtävä ei ole olla pomottaja, vaan järjestäjä, joka kuuntel
 
 Monitaitoisessa tiimissä on tyypillisesti 5-9 mielellään kokoaikaista jäsentä. On mm. koodaajia, testaajia ja käytettävyysihmisiä. Normaalitilanteessa tiimi organisoi itse itsensä ja se pysyy vakiona sprintin ajan.
 
+Vaikka tiimi koostuu todennäköisesti osaamisalaltaan ja taidoiltaan erilaisista yksilöistä tiimin sisällä ei jaeta nimikkeitä työntekijöille vaan jokainen tiimin jäsen pyritään pitämään saman arvoisessa asemassa keskenään. Tiimi on yhdessä vastuussa tuotteensa kaikista ominaisuuksista.
+
 ### Sidosryhmät
 
 Sidosryhmät ovat ulkoisija toimijoita, kuten loppukäyttäjät, hankkeen hallinto tai muut Scrum tiimit.
