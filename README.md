@@ -67,7 +67,7 @@ Scrumtiimissä on kolme eri roolia. Yksi tiimin jäsenistä toimii tuotteen omis
 
 ### Tuoteomistaja
 
-Tuoteomistaja vastaa tuotteen arvon ja kehitystiimin työn arvon maksimoimisesta.
+Tuoteomistaja vastaa tuotteen arvon ja kehitystiimin työn arvon maksimoimisesta. Tuoteomistaja on vastuussa tuotteen ominaisuuksista eli "omistaa tuotteen". Asiakasprojekteissa tuoteomistaja voi olla asiakkaan edustaja kun taas tuotekehitysprojekteissa tuoteomistaja on tuotepäällikkö.
 
 ### Scrum Master
 
