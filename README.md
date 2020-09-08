@@ -1,6 +1,8 @@
 # Scrum-ohjeita projekteille
 
-Scrum on kokonaisvaltainen ketterä tuotekehityksen malli, jolla on tarkoitus maksimoida kehitysnopeus ja -tehokkuus.
+Scrum on kokonaisvaltainen ketterä tuotekehityksen malli, jolla on tarkoitus maksimoida kehitysnopeus ja -tehokkuus. Scrum malli ei keskity projektin pieniin yksityiskohtiin vaan pyrkii vaiheistamaan ja kontrolloimaan projektia mahdollistaen sen jatkuvan etenemisen ja arvon luomisen asiakkaalle.
+
+Keskeisiä käsitteitä Scrum mallissa on Scrum-arvot, -roolit, -sprintit ja -kokoukset.
 
 ## Scrumin arvot 
 
