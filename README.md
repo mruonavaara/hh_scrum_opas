@@ -4,7 +4,6 @@ Scrum on kokonaisvaltainen ketterä (eng. Agile) tuotekehityksen malli, jolla on
 
 Keskeisiä käsitteitä Scrum mallissa on Scrum-arvot, -roolit, -sprintit ja -kokoukset.
 
-+
 ## Scrumin arvot 
 
 Scrum ei rakennu valikoidusta joukosta käytäntöjä vaan pohjautuu muutamaan arvoon. 
@@ -69,6 +68,8 @@ Scrumtiimissä on kolme eri roolia. Yksi tiimin jäsenistä toimii tuotteen omis
 ### Tuoteomistaja
 
 Tuoteomistaja vastaa tuotteen arvon ja kehitystiimin työn arvon maksimoimisesta. Tuoteomistaja on vastuussa tuotteen ominaisuuksista eli "omistaa tuotteen". Asiakasprojekteissa tuoteomistaja voi olla asiakkaan edustaja kun taas tuotekehitysprojekteissa tuoteomistaja on tuotepäällikkö.
+
+Tuotepäällikön vastuulla on se, että kehitettävä tuote vastaa asiakkaan tarpeita mahdollisimman hyvin. Hän priorisoi tuotteen ominaisuudet ja lisää niitä työjonoon. Scrum-tiimissä tulee olla vain yksi tuoteomistaja ja sitä ei pidä sekoittaa Scrum Master -roolin kanssa. Kommunikaatio asiakkaan ja työryhmän välillä on yksi tärkeimmistä tuoteomistajan työtehtävistä.
 
 ### Scrum Master
 
