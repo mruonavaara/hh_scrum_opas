@@ -5,15 +5,12 @@ Scrum tuo kehitystyöhön turvallisen rakenteen silloin, kun kehittäjiä on mon
 
 Keskeisiä käsitteitä Scrum mallissa on Scrum-arvot, -roolit, -sprintit ja -kokoukset.
 
-<<<<<<< HEAD
 +
 
 ## Mikä on Scrum?
 
 Scrum on viitekehys, jonka avulla voidaan ratkaista monimutkaisia ongelmia jotka vaativat soveltamista. Mahdollistaen korkealuokkaisten tuotteiden tuottamisen tehokkaasti ja luovasti. Scrum on kevyt, helppo ymmärtää, mutta vaikea hallita hyvin.
 
-=======
->>>>>>> featNoora
 
 ## Scrumin arvot 
 
