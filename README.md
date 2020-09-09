@@ -5,12 +5,15 @@ Scrum tuo kehitystyöhön turvallisen rakenteen silloin, kun kehittäjiä on mon
 
 Keskeisiä käsitteitä Scrum mallissa on Scrum-arvot, -roolit, -sprintit ja -kokoukset.
 
+<<<<<<< HEAD
 +
 
 ## Mikä on Scrum?
 
 Scrum on viitekehys, jonka avulla voidaan ratkaista monimutkaisia ongelmia jotka vaativat soveltamista. Mahdollistaen korkealuokkaisten tuotteiden tuottamisen tehokkaasti ja luovasti. Scrum on kevyt, helppo ymmärtää, mutta vaikea hallita hyvin.
 
+=======
+>>>>>>> featNoora
 
 ## Scrumin arvot 
 
@@ -76,6 +79,8 @@ Scrumtiimissä on kolme eri roolia. Yksi tiimin jäsenistä toimii tuotteen omis
 ### Tuoteomistaja
 
 Tuoteomistaja vastaa tuotteen arvon ja kehitystiimin työn arvon maksimoimisesta. Tuoteomistaja on vastuussa tuotteen ominaisuuksista eli "omistaa tuotteen". Asiakasprojekteissa tuoteomistaja voi olla asiakkaan edustaja kun taas tuotekehitysprojekteissa tuoteomistaja on tuotepäällikkö.
+
+Tuotepäällikön vastuulla on se, että kehitettävä tuote vastaa asiakkaan tarpeita mahdollisimman hyvin. Hän priorisoi tuotteen ominaisuudet ja lisää niitä työjonoon. Scrum-tiimissä tulee olla vain yksi tuoteomistaja ja sitä ei pidä sekoittaa Scrum Master -roolin kanssa. Kommunikaatio asiakkaan ja työryhmän välillä on yksi tärkeimmistä tuoteomistajan työtehtävistä.
 
 ### Scrum Master
 
