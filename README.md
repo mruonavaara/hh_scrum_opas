@@ -72,7 +72,7 @@ Tuoteomistaja vastaa tuotteen arvon ja kehitystiimin työn arvon maksimoimisesta
 
 ### Scrum Master
 
-SCRUM-masterin tehtävä ei ole olla pomottaja, vaan järjestäjä, joka kuuntelee tiimin jäseniä ja mahdollistaa työskentelyn.
+SCRUM-masterin tehtävä ei ole olla pomottaja, vaan järjestäjä, joka kuuntelee tiimin jäseniä ja mahdollistaa työskentelyn. Scrum Master vastaa mm. siitä, että kaikki tiimin jäsenet noudattavat scrumin käytäntöjä ja sääntöjä, scrumtiimin päivittäinen työskentely on tuottavaa ja scrumtiimi saa mahdollisimman hyvän työrauhan ulkoisilta häiriötekijöiltä.
 
 ### Tiimi
 
