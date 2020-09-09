@@ -81,7 +81,7 @@ Tuotepäällikön vastuulla on se, että kehitettävä tuote vastaa asiakkaan ta
 
 ### Scrum Master
 
-SCRUM-masterin tehtävä ei ole olla pomottaja, vaan järjestäjä, joka kuuntelee tiimin jäseniä ja mahdollistaa työskentelyn. Scrum Master vastaa mm. siitä, että kaikki tiimin jäsenet noudattavat scrumin käytäntöjä ja sääntöjä, scrumtiimin päivittäinen työskentely on tuottavaa ja scrumtiimi saa mahdollisimman hyvän työrauhan ulkoisilta häiriötekijöiltä.
+SCRUM-masterin tehtävä ei ole olla pomottaja, vaan järjestäjä, joka kuuntelee tiimin jäseniä ja mahdollistaa työskentelyn. Scrum Master vastaa mm. siitä, että kaikki tiimin jäsenet noudattavat scrumin käytäntöjä ja sääntöjä, scrumtiimin päivittäinen työskentely on tuottavaa ja scrumtiimi saa mahdollisimman hyvän työrauhan ulkoisilta häiriötekijöiltä. SCRUM-masterin ei ole tarkoitus olla projektipäällikkö, sillä hänen tehtävänään ei ole ihmisten johtaminen.
 
 ### Tiimi
 
