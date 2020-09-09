@@ -62,6 +62,10 @@ Projektin työ- tai kehitysjono on lista kaikista tuotteen tarpeista, joita proj
 
 Sprintin työjono on otos koko työjonosta, mutta sisältää vain sen tai ne asiat, jotka voidaan kyseisen sprintin aikana suorittaa. Erona projektin työjonoon on se, että sprintin työjono ei muutu sprintin aikana. Jonoa voidaan muuttaa, mutta ainoastaan sprintin suunnittelukokouksessa. Kun sprintin työjono on päätetty, tehtävät ja vaiheet pidetään sellaisenaan sprintin loppuun asti. Sprintin lopussa keskeneräiset tehtävät siirretään takaisin projektin työjonoon ja käsitellään seuraavassa sprintissä.
 
+## Päivittäinen Scrum-kokous
+
+Tämän kokouksen tarkoituksena on tarkastella tavoitteiden ja työjonon edistymistä. Päivittäisen kokouksen katsotaan vähentävän muita kokouksia ja parantavan kommunikaatiota. Kehitystiimi määrittelee kokouksen rakenteen. 
+
 ## Roolit
 
 Scrumtiimissä on kolme eri roolia. Yksi tiimin jäsenistä toimii tuotteen omistajana (engl. Product Owner), toinen rooli on kehitystiimi (engl. Development Team) ja kolmas rooli on scrummaster (engl. Scrum Master).
