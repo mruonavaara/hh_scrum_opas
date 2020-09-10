@@ -72,6 +72,8 @@ Sprintin työjono on otos koko työjonosta, mutta sisältää vain sen tai ne as
 
 Scrumtiimissä on kolme eri roolia. Yksi tiimin jäsenistä toimii tuotteen omistajana (engl. Product Owner), toinen rooli on kehitystiimi (engl. Development Team) ja kolmas rooli on scrummaster (engl. Scrum Master).
 
+Tuoteomistaja vastaa tuotteen arvon ja kehitystiimin työn arvon maksimoimisesta. Kehitystiimi muuttaa sprinttiin valitun tuotteen kehitysjonon sisällön julkaisukelpoiseksi tuoteversioksi jokaisessa sprintissä. Scrummaster vastaa siitä, että kaikki ymmärtävät ja käyttävät Scrumia.
+
 ### Tuoteomistaja
 
 Tuoteomistaja vastaa tuotteen arvon ja kehitystiimin työn arvon maksimoimisesta. Tuoteomistaja on vastuussa tuotteen ominaisuuksista eli "omistaa tuotteen". Asiakasprojekteissa tuoteomistaja voi olla asiakkaan edustaja kun taas tuotekehitysprojekteissa tuoteomistaja on tuotepäällikkö.
