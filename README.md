@@ -57,8 +57,6 @@ Sprintin aikana työskennellään päivittäisissä jaksoissa työstäen sprinti
 
 Sprinttejä jatketaan samalla tavalla kunnes tuotejonossa ei ole enää tuotteita ja varsinainen lopputuote on valmis.
 
-Plöö
-
 ## Sprintit
 
 Sprintti on 1-4 viikon mittainen aikaraja, jonka aikana tuotetaan esittely- tai julkaisukelpoinen tuote. Sprintin aikana voidaan tehdä yksi tai useampi julkaisu. Sprinttien pituus pysyy samana koko projektin ajan.
