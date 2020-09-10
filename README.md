@@ -1,8 +1,15 @@
 # Scrum-ohjeita projekteille
 
-Scrum on kokonaisvaltainen ketterä (eng. Agile) tuotekehityksen malli, jolla on tarkoitus maksimoida kehitysnopeus ja -tehokkuus. Scrum malli ei keskity projektin pieniin yksityiskohtiin vaan pyrkii vaiheistamaan ja kontrolloimaan projektia mahdollistaen sen jatkuvan etenemisen ja arvon luomisen asiakkaalle. Scrum tuo kehitystyöhön turvallisen rakenteen silloin, kun kehittäjiä on monta ja tehtävää paljon.
+Scrum on kokonaisvaltainen ketterä (eng. Agile) tuotekehityksen malli, jolla on tarkoitus maksimoida kehitysnopeus ja -tehokkuus. Scrum malli ei keskity projektin pieniin yksityiskohtiin vaan pyrkii vaiheistamaan ja kontrolloimaan projektia mahdollistaen sen jatkuvan etenemisen ja arvon luomisen asiakkaalle. 
+Scrum tuo kehitystyöhön turvallisen rakenteen silloin, kun kehittäjiä on monta ja tehtävää paljon.
 
 Keskeisiä käsitteitä Scrum mallissa on Scrum-arvot, -roolit, -sprintit ja -kokoukset.
+
+
+## Mikä on Scrum?
+
+Scrum on viitekehys, jonka avulla voidaan ratkaista monimutkaisia ongelmia jotka vaativat soveltamista. Mahdollistaen korkealuokkaisten tuotteiden tuottamisen tehokkaasti ja luovasti. Scrum on kevyt, helppo ymmärtää, mutta vaikea hallita hyvin.
+
 
 ## Scrumin arvot 
 
@@ -73,7 +80,7 @@ Tuotepäällikön vastuulla on se, että kehitettävä tuote vastaa asiakkaan ta
 
 ### Scrum Master
 
-SCRUM-masterin tehtävä ei ole olla pomottaja, vaan järjestäjä, joka kuuntelee tiimin jäseniä ja mahdollistaa työskentelyn.
+SCRUM-masterin tehtävä ei ole olla pomottaja, vaan järjestäjä, joka kuuntelee tiimin jäseniä ja mahdollistaa työskentelyn. Scrum Master vastaa mm. siitä, että kaikki tiimin jäsenet noudattavat scrumin käytäntöjä ja sääntöjä, scrumtiimin päivittäinen työskentely on tuottavaa ja scrumtiimi saa mahdollisimman hyvän työrauhan ulkoisilta häiriötekijöiltä. SCRUM-masterin ei ole tarkoitus olla projektipäällikkö, sillä hänen tehtävänään ei ole ihmisten johtaminen.
 
 ### Tiimi
 
@@ -95,7 +102,8 @@ Sprintin aikana pidetään päivittäinen Scrum-kokous, jossa kukin tiimin jäse
 - mitä aikoo tehdä tämän päivän aikana
 - onko tekemiselle esteitä
 
-Päivittäisen kokouksen kesto on 15 minuuttia ja se pidetään seisoen, jotta kesto ei venyisi. Kokouksessa ei ole tarkoitus ratkaista ongelmia.
+Päivittäisen kokouksen kesto on 15 minuuttia ja se pidetään seisoen, jotta kesto ei venyisi. Kokouksessa ei ole tarkoitus ratkaista ongelmia vaan tarkoituksena on tarkastella tavoitteiden ja työjonon edistymistä. 
+Päivittäisen kokouksen katsotaan vähentävän korvaavien kokouksien määrää ja parantavan kommunikaatiota. Kehitystiimi on vastuussa kokouksesta ja Scrum-masterin roolina on varmistaa, että kokous pidetään. 
 
 Jokaisen sprintin jälkeen pidetään lopetuskokous, johon kaikki kutsutaan. Siinä esitellään demoamalla, mitä tiimi on sprintissä saanut aikaan.
 
