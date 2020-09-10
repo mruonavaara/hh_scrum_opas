@@ -5,7 +5,6 @@ Scrum tuo kehitystyöhön turvallisen rakenteen silloin, kun kehittäjiä on mon
 
 Keskeisiä käsitteitä Scrum mallissa on Scrum-arvot, -roolit, -sprintit ja -kokoukset.
 
-+
 
 ## Mikä on Scrum?
 
